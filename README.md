@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**bunnydiwakar18-commits/bunnydiwakar18-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+Hi 👋 I’m [Deepesh]
 
-Here are some ideas to get you started:
+🎓 BCA Student
+💻 Learning Web Development & DSA
+🌱 Currently improving in: JavaScript & React
+🚀 Goal: To become a skilled Full Stack Developer
+📫 Reach me: bunnydiwakar18@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+Discord LinkedIn Pinterest email
+
+💻 Tech Stack:
+C C++ JavaScript HTML5 NodeJS Figma Adobe Photoshop MySQL GitHub
+
+📊 GitHub Stats:
+
+
