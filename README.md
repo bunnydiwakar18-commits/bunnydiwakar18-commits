@@ -201,12 +201,12 @@ responsive design, gradients and interactive UI.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DEEPESH7701&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=bunnydiwakar181&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPESH7701&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnydiwakar18&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
@@ -217,7 +217,7 @@ responsive design, gradients and interactive UI.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=DEEPESH7701&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=bunnydiwakar18&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -227,7 +227,7 @@ responsive design, gradients and interactive UI.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/DEEPESH7701/DEEPESH7701/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/bunnydiwakar18/bunnydiwakar18/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
