@@ -201,13 +201,15 @@ responsive design, gradients and interactive UI.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bunnydiwakar181&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=bunnydiwakar18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="Deepesh GitHub Stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnydiwakar18&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
@@ -217,7 +219,8 @@ responsive design, gradients and interactive UI.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bunnydiwakar18&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=bunnydiwakar18&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Deepesh GitHub Contribution Streak"
   />
 </p>
 
@@ -229,9 +232,9 @@ responsive design, gradients and interactive UI.
   <img
     src="https://raw.githubusercontent.com/bunnydiwakar18/bunnydiwakar18/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
-
 ---
 
 # 🧠 My Developer Mindset
@@ -314,4 +317,4 @@ const deepesh = {
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
-</p>![alt text](<Futuristic Developer Portfolio Portrait.png>)
+</p>
